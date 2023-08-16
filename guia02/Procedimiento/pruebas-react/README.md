@@ -1,32 +1,31 @@
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-
+# Pruebas-React: Proyecto de Prueba con React y Webpack
+¡Bienvenido a Pruebas-React! Este es un proyecto de muestra creado para demostrar
+cómo configurar y ejecutar una aplicación básica de React utilizando Webpack. Sigue
+los pasos a continuación para poner en marcha el proyecto en tu máquina local.
+## Requisitos Previos
+Antes de comenzar, asegúrate de tener instalado Node.js en tu sistema. Puedes
+descargarlo e instalarlo desde [nodejs.org](https://nodejs.org/).
+## Clonar el Repositorio
+1. Abre tu terminal y navega hasta la ubicación donde deseas clonar el repositorio.
+2. Ejecuta el siguiente comando para clonar el repositorio:
+```
+git clone https://github.com/isaac-rom/GuiaLabDPS/
+```
+3. Ingresa al directorio del proyecto usando el comando:
+```
+cd guia02\Procedimiento\pruebas-react
+```
+## Instalar dependencias
+1. En el directorio del proyecto, ejecuta el siguiente comando para instalar las
+dependencias necesarias:
+```
+npm install
+```
+## Configuración de Desarrollo
+1. Ahora que las dependencias están instaladas, puedes iniciar el servidor de
+desarrollo. Ejecuta el siguiente comando:
+```
+npm start
+```
+2. Abre tu navegador web y visita [http://localhost:3000](http://localhost:3000). 
+Deberias ver la aplicacion de React en funcionamiento.
