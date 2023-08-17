@@ -8,11 +8,16 @@ git clone https://github.com/isaac-rom/GuiaLabDPS.git
 ```
 
 ### Guia01:
-Todo el codigo se encuentra en la carpeta respectiva.
+Todo el codigo se encuentra en la carpeta respectiva (HTML PURO).
 
 ### Guia02:
-Ir a la carpeta respectiva y ejecutar en consola los siguiente:
+1. Despues de clonar, ir a la carpeta respectiva:
+```
+cd guia02\Procedimiento\pruebas-react
+```
+2. Ejecutar en consola los siguientes comandos:
 ```
 npm install
 npm start
 ```
+3. Abre tu navegador web y visita http://localhost:<Puerto Asignado>. Deberias ver la aplicacion de React en funcionamiento.
