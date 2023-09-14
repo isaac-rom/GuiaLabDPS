@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Pupusas, Ca: 221 cal",
+      "description":"Las pupusas son tortillas hechas de masa de maíz o de arroz rellenas con queso, chicharrón (extracción de la carne de cerdo), frijoles y a las que llamamos “revueltas” (chicharrón con frijoles y queso), camarón y pescado, entre otras opciones.",
+      "image": "https://www.inmsol.com/wp-content/uploads/2016/05/o.jpg"
+    },
+    {
+      "name": "Empanadas, Ca: 260 cal",
+      "description": "Las empanadas en El Salvador tienen sus raíces en la época colonial, cuando los antiguos habitantes de la región utilizaban tortillas para envolver alimentos y preservarlos en sus viajes. Con el tiempo, esta práctica evolucionó y las empanadas se convirtieron en un alimento común en las mesas salvadoreñas",
+      "image": "https://cocinamerica.com/wp-content/uploads/2019/01/imagen-principal-de-empanadas-de-platano-con-leche-470x313.jpg"
+    },
+    {
+      "name": "Canoas de plátano, Ca: 116 kcal",
+      "description": "Las canoas de plátano son una de las recetas que se pueden elaborar fácilmente, sin mucho esfuerzo y sin gastar mucho. En El Salvador es considerada como un platillo típico que se puede degustar por las tardes y acompañado de alguna bebida típica.",
+      "image": "https://lh4.googleusercontent.com/-_dTemhFQceo/U_KBUspnscI/AAAAAAAAF60/900O35lMw98/s450/canoas-de-platano.jpg"
+    },
+    {
+      "name": "Torrejas salvadoreñas Ca: 553 cal",
+      "description": "Las torrejas salvadoreñas son un platillo típico que no puede faltar en Semana Santa, aunque pueden ser preparadas en cualquier época del año que lo desee para degustar su excelente sabor.",
+      "image": "https://lh3.googleusercontent.com/-4HCEGPvYL4U/VR4J7qmqC1I/AAAAAAAAIHI/8afZXO1MFRY/s450/torrejas-salvadorenas.jpg"
+    },
+    {
+      "name": "Pastelitos salvadoreños , Ca: 263 cal",
+      "description": "Los pastelitos salvadoreños o pasteles salvadoreños son uno de los platillos típicos más consumidos en nuestro país.",
+      "image": "https://lh3.googleusercontent.com/--R0bSwiErkY/U_wDkfhNQdI/AAAAAAAAGA4/vQ5OCbUbTJI/s480/pastelitos-salvadorenos.jpg"
+    }
+  ]

@@ -1,8 +1,8 @@
 # Guia de Laboratorio 
 Para la ejecucion de cualquier guia hay que realizar los siguentes pasos:
 ## Requisitos Previos
-Instalar Node.js
-Clonar Repositorio:
+1. Instalar Node.js
+2. Clonar Repositorio:
 ```
 git clone https://github.com/isaac-rom/GuiaLabDPS.git
 ```
