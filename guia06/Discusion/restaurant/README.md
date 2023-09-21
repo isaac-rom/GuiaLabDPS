@@ -8,12 +8,11 @@ descargarlo e instalarlo desde [nodejs.org](https://nodejs.org/).
 2. Ejecuta el siguiente comando para clonar el repositorio:
 ```
 git clone https://github.com/isaac-rom/GuiaLabDPS/
-
 ```
 3. Ingresa al directorio del proyecto usando el comando:
 ```
 cd GuiLabDPS
-cd guia06\Procedimiento\citas
+cd guia06\Discusion\restaurant
 ```
 
 ## Instalar dependencias
